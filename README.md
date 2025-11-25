@@ -201,24 +201,7 @@ class DarshanS:
 - **Tech:** TensorFlow, Keras, Albumentations
 </details>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshan-207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-207&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-207&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan-207&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🏆 Achievements & Highlights
 
@@ -262,15 +245,7 @@ current_projects = {
 - [ ] Build ML portfolio with 10+ production projects
 - [ ] Earn TensorFlow Developer Certification
 
----
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/darshan-207/darshan-207/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 💬 Let's Connect!
 
