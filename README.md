@@ -2,11 +2,26 @@
 
 # 🔥 DARSHAN S
 
-### AI & ML Engineer | Building Production-Ready Intelligence Systems
+### Data Science Student | ML/DL Developer | Building Production-Ready Solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/darshan-s-967a44303)
 [![Gmail](https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:darshansivasamy05@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=darshan-207&color=blueviolet&style=flat-square)](https://github.com/darshan-207)
+
+📍 Coimbatore, Tamil Nadu | 📞 +91 82480 89552
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+[![Digitization System](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=exam-sheet-digitization&theme=radical)](https://github.com/darshan-207/exam-sheet-digitization)
+[![CardioRisk](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=cardiorisk-predictor&theme=radical)](https://github.com/darshan-207/cardiorisk-predictor)
+[![FocusPilot](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=focuspilot&theme=radical)](https://github.com/darshan-207/focuspilot)
+[![AI Attendance](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=ai-attendance-system&theme=radical)](https://github.com/darshan-207/ai-attendance-system)
 
 </div>
 
@@ -14,91 +29,59 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI & Data Science engineer focused on **building deployable machine learning systems that solve real-world problems**. My work spans from NLP-powered browser extensions to automated OCR pipelines and medical prediction systems.
+Data Science student with hands-on experience in ML/DL model development, automation systems, and data analytics. Proven track record of building production-ready solutions—from department-level digitization systems to hackathon-winning NLP applications—with measurable impact on efficiency and accuracy.
 
 ```python
 class DarshanS:
     def __init__(self):
-        self.role = "AI & ML Engineer in Training"
-        self.focus = ["NLP", "Deep Learning", "Computer Vision", "MLOps"]
-        self.mindset = "Ship fast, iterate faster, solve real problems"
+        self.education = "M.Sc. Data Science (Integrated)"
+        self.institution = "Coimbatore Institute of Technology"
+        self.cgpa = "7.67/10"
+        self.focus = ["ML/DL", "Data Analytics", "NLP", "Computer Vision"]
         
-    def current_mission(self):
-        return "Building AI systems that are production-ready, not just proof-of-concepts"
+    def current_work(self):
+        return "Building production-ready ML systems with real-world impact"
 ```
-
-**🎯 What I Do:**
-- 🧠 Design end-to-end ML pipelines from data collection to deployment
-- 🔍 Specialize in NLP, named entity recognition, and intent classification
-- 📷 Build computer vision systems for OCR, document processing, and automation
-- ⚡ Create intelligent browser tools and productivity applications
-- 📊 Transform raw data into actionable insights through analytics and modeling
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### **Core ML & Data Science**
+### **Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### **Deep Learning Specializations**
+### **Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF1493?style=for-the-badge)
 ![CNNs](https://img.shields.io/badge/CNNs-00CED1?style=for-the-badge)
-![RNNs_&_LSTMs](https://img.shields.io/badge/RNNs_&_LSTMs-9370DB?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)
-![Transfer_Learning](https://img.shields.io/badge/Transfer_Learning-20B2AA?style=for-the-badge)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### **NLP & Language Models**
-![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-7B68EE?style=for-the-badge)
-![NER](https://img.shields.io/badge/NER-FF6347?style=for-the-badge)
-![Intent_Classification](https://img.shields.io/badge/Intent_Classification-32CD32?style=for-the-badge)
-
-</td>
-<td width="50%" valign="top">
-
-### **Computer Vision & OCR**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-4285F4?style=for-the-badge)
-![DOCTR](https://img.shields.io/badge/DOCTR_OCR-FF4500?style=for-the-badge)
-![PIL](https://img.shields.io/badge/PIL-8B4513?style=for-the-badge)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### **Development & Deployment**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### **Data & Analytics**
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Data Analysis & BI**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Viz-11557c?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 </td>
 </tr>
@@ -106,150 +89,115 @@ class DarshanS:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-### 🌐 **FocusPilot – AI-Powered Productivity Chrome Extension**
-> *Intelligent distraction blocker using real-time NLP classification*
+### 📄 **Mid-Sem Front Sheet Digitization System** *(Dept. Project - Team Lead)*
+> *Automated exam paper digitization reducing manual workload by 80%*
 
 ```
-🧠 DistilBERT transformer model for webpage content analysis
-⚡ Real-time distraction detection with <200ms latency
-🎯 Flask API backend with Chrome extension frontend
-📊 Custom-curated 5,000-sample training dataset
-✅ 99% classification accuracy | 0.98 F1-score
-🔧 Tech: DistilBERT, Flask, Chrome Extensions API, JavaScript
+📷 Fine-tuned EfficientNet-B0 on 11,000 labeled samples
+🔍 Integrated PaddleOCR-DB for text-region localization
+📊 98% end-to-end mark extraction accuracy
+⚡ Reduced faculty verification time from 5 min → 30 sec per paper
+🎯 22% improvement in mark recognition accuracy
+📈 31% increase in extraction precision
+🔧 Tech: EfficientNet-B0, PaddleOCR, TensorFlow, Python
 ```
 
-**Impact:** Helps users maintain focus by intelligently identifying and alerting about distracting content in real-time.
+**Impact:** Enabled instant CO report generation, saving 80% of manual entry effort department-wide.
 
 ---
 
-### 🏆 **AI-Based Attendance Management System** *(Hackathon Runner-Up)*
-> *Natural language-powered attendance automation reducing manual effort by 85%*
+### ❤️ **CardioRisk Predictor (ECG + Clinical)**
+> *Multimodal deep learning system for cardiac disease classification*
 
 ```
-💬 Named Entity Recognition (NER) for student/course extraction
-🎯 Intent classification for query routing (update/fetch/delete)
-🔍 Vector database matching for fuzzy name resolution
-📊 Automated workflow replacing 30+ minute manual processes
-✅ 94% intent accuracy | 89% NER F1-score
-🔧 Tech: spaCy, TensorFlow, FAISS, Flask, SQLite
+📈 Processed 45,345 PTB-XL ECG signals with full preprocessing pipeline
+🧠 SE-ResNet1D + MLP architecture for ECG-clinical fusion
+🎯 94% validation accuracy across 5 cardiac classes
+📊 15-40% boost in class-wise recall through feature fusion
+⚡ High-throughput pipeline with oversampling & stratified splitting
+🔧 Tech: TensorFlow, SE-ResNet1D, NumPy, Signal Processing
 ```
 
-**Impact:** Reduced faculty administrative burden by automating attendance updates and queries through conversational AI.
+**Impact:** Reproducible pipeline for accurate cardiac risk assessment using multimodal data.
 
 ---
 
-### 📄 **Mid-Sem Front Sheet Digitization System**
-> *End-to-end ML pipeline for automated exam paper processing*
+### 📊 **Tamil Nadu Election EDA & Power BI Dashboard**
+> *50 years of TN Assembly Elections analyzed (1971-2021)*
 
 ```
-📷 EfficientNet-B0 CNN for ROI detection on scanned papers
-🔍 DOCTR OCR engine for text extraction
-📊 Automated Excel generation with CO-PO mapping
-🎯 98% mark extraction accuracy | 96% field recognition
-⚡ Processing time: 3.2 seconds per sheet
-🔧 Tech: EfficientNet, DOCTR, OpenCV, Pandas, openpyxl
+📈 Interactive Power BI dashboard with year filters & party comparisons
+🔍 SQL window functions for seat counts, vote-share trends, close contests
+📊 KPI cards: seats won, margin analysis, NOTA statistics
+🎯 Uncovered turnout patterns and constituency-level insights
+🔧 Tech: Power BI, SQL, Python, Data Visualization
 ```
 
-**Impact:** Transformed a 4-hour manual digitization process into a 15-minute automated workflow, saving 200+ hours per semester.
+**Impact:** Comprehensive visual analysis revealing long-term electoral trends and voting patterns.
 
 ---
 
-### ❤️ **CardioRisk Predictor – ECG-Based CVD Risk Assessment**
-> *Deep learning system for cardiovascular disease prediction from ECG signals*
+## 🏆 Side Projects
+
+### 🌐 **FocusPilot Chrome Extension**
+> *AI-powered productivity tool with real-time webpage classification*
 
 ```
-📈 PTB-XL dataset preprocessing (21,837 ECG recordings)
-💓 Heart Rate Variability (HRV) feature engineering
-🧠 Hybrid 1D-CNN + GRU architecture for temporal pattern learning
-🎯 91.2% accuracy | 0.88 F1-score | 0.94 AUC-ROC
-⚡ Inference time: 45ms per ECG
-🔧 Tech: TensorFlow, Keras, SciPy, NumPy, Wfdb
-```
-
-**Impact:** Provides rapid cardiovascular risk assessment to assist medical professionals in early intervention decisions.
-
----
-
-### 🔬 **Additional ML Projects**
-
-<details>
-<summary><b>📊 Customer Segmentation using K-Means Clustering</b></summary>
-
-- Unsupervised learning on retail customer data
-- Optimal cluster selection using Elbow method & Silhouette analysis
-- 5 distinct customer personas identified
-- **Tech:** Scikit-learn, PCA, Matplotlib
-</details>
-
-<details>
-<summary><b>🏠 House Price Prediction using Ensemble Methods</b></summary>
-
-- Gradient Boosting + Random Forest ensemble
-- Feature engineering with 60+ derived variables
-- RMSE: $12,340 | R²: 0.89
-- **Tech:** XGBoost, LightGBM, Scikit-learn
-</details>
-
-<details>
-<summary><b>🖼️ Image Classification on CIFAR-10</b></summary>
-
-- Custom CNN architecture with data augmentation
-- 92.3% test accuracy
-- Transfer learning experiments with ResNet50
-- **Tech:** TensorFlow, Keras, Albumentations
-</details>
-
-
-
-## 🏆 Achievements & Highlights
-
-- 🥈 **Runner-Up** – AI Hackathon (Attendance Automation System)
-- 📚 **5+ Production ML Projects** deployed and actively used
-- 🎯 **99% Model Accuracy** on FocusPilot webpage classification
-- ⚡ **85% Time Reduction** in exam paper digitization workflows
-- 💡 **3 Chrome Extensions** developed with ML backends
-
----
-
-## 📈 What I'm Currently Working On
-
-```python
-current_projects = {
-    "learning": [
-        "Advanced NLP with Transformers (BERT, GPT architectures)",
-        "MLOps and model deployment pipelines",
-        "Reinforcement Learning for decision systems"
-    ],
-    "building": [
-        "Multi-modal AI assistant for document analysis",
-        "Real-time emotion detection system",
-        "Automated code review tool using LLMs"
-    ],
-    "exploring": [
-        "Edge AI and model optimization",
-        "Federated learning for privacy-preserving ML",
-        "Graph Neural Networks"
-    ]
-}
+🧠 DistilBERT classifier trained on 5,000 samples
+✅ 99% classification accuracy
+⚡ Real-time webpage scraping for productivity alerts
+📉 Reduced unproductive browsing by 35% in testing
+🔧 Tech: DistilBERT, Flask, Chrome Extensions API
 ```
 
 ---
 
-## 🎯 2025 Goals
+### 🏆 **AI-Based Attendance Automation** *(Hackathon Runner-Up)*
+> *NLP-powered attendance system automating faculty queries*
 
-- [ ] Contribute to 3+ open-source ML projects
-- [ ] Deploy 2 commercial-grade ML applications
-- [ ] Publish research paper on NLP optimization
-- [ ] Build ML portfolio with 10+ production projects
-- [ ] Earn TensorFlow Developer Certification
+```
+💬 Mistral-powered Named Entity Recognition (NER)
+🔍 Embedding-based vectorization for query matching
+📊 Automated 90% of attendance queries
+⚡ Significantly reduced faculty workload
+🔧 Tech: Mistral, NER, Embeddings, Flask
+```
 
+---
 
+## 🎓 Education
+
+**Coimbatore Institute of Technology**  
+M.Sc. Data Science (Integrated) | CGPA: 7.67/10 | 2023–Present
+
+---
+
+## 📜 Experience & Training
+
+- **Data Science Workshop:** ML workflows, EDA, visualization, and reporting
+- **EduHacks Participation:** YouTube comment classifier using NLP for sentiment detection
+- **Kaggle Learn Certifications:**
+  - Applied Feature Engineering (2024)
+  - Data Visualization for Exploratory Analysis (2024)
+- **Additional Certifications:**
+  - Web Development (JavaScript, Node.js)
+  - Quantum Computing (Qiskit)
+
+---
+
+## 💼 Professional Interests
+
+- **Data Engineering & Analytics**
+- **Deep Learning Systems**
+- **ML Engineering**
+
+---
 
 ## 💬 Let's Connect!
 
-I'm always interested in collaborating on ML projects, discussing AI innovations, or helping with data science challenges. Feel free to reach out!
+I'm interested in collaborating on ML projects, discussing data science innovations, and building production-ready solutions.
 
 <div align="center">
 
@@ -263,9 +211,228 @@ I'm always interested in collaborating on ML projects, discussing AI innovations
 
 <div align="center">
 
-### ⚡ *"Building AI systems that don't just work—they ship, scale, and solve real problems."*
+### ⚡ *"Building ML systems that deliver measurable real-world impact"*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;NLP+Specialist;Deep+Learning+Enthusiast;Problem+Solver;Always+Learning+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Science+Student;ML%2FDL+Developer;Production-Ready+Solutions;Always+Learning+%F0%9F%9A%80)
+
+**⭐️ From [darshan-207](https://github.com/darshan-207)**
+
+</div><div align="center">
+
+# 🔥 DARSHAN S
+
+### Data Science Student | ML/DL Developer | Building Production-Ready Solutions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/darshan-s-967a44303)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:darshansivasamy05@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=darshan-207&color=blueviolet&style=flat-square)](https://github.com/darshan-207)
+
+📍 Coimbatore, Tamil Nadu | 📞 +91 82480 89552
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+[![Digitization System](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=exam-sheet-digitization&theme=radical)](https://github.com/darshan-207/exam-sheet-digitization)
+[![CardioRisk](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=cardiorisk-predictor&theme=radical)](https://github.com/darshan-207/cardiorisk-predictor)
+[![FocusPilot](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=focuspilot&theme=radical)](https://github.com/darshan-207/focuspilot)
+[![AI Attendance](https://github-readme-stats.vercel.app/api/pin/?username=darshan-207&repo=ai-attendance-system&theme=radical)](https://github.com/darshan-207/ai-attendance-system)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Data Science student with hands-on experience in ML/DL model development, automation systems, and data analytics. Proven track record of building production-ready solutions—from department-level digitization systems to hackathon-winning NLP applications—with measurable impact on efficiency and accuracy.
+
+```python
+class DarshanS:
+    def __init__(self):
+        self.education = "M.Sc. Data Science (Integrated)"
+        self.institution = "Coimbatore Institute of Technology"
+        self.cgpa = "7.67/10"
+        self.focus = ["ML/DL", "Data Analytics", "NLP", "Computer Vision"]
+        
+    def current_work(self):
+        return "Building production-ready ML systems with real-world impact"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### **Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF1493?style=for-the-badge)
+![CNNs](https://img.shields.io/badge/CNNs-00CED1?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### **Data Analysis & BI**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Viz-11557c?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Key Projects
+
+### 📄 **Mid-Sem Front Sheet Digitization System** *(Dept. Project - Team Lead)*
+> *Automated exam paper digitization reducing manual workload by 80%*
+
+```
+📷 Fine-tuned EfficientNet-B0 on 11,000 labeled samples
+🔍 Integrated PaddleOCR-DB for text-region localization
+📊 98% end-to-end mark extraction accuracy
+⚡ Reduced faculty verification time from 5 min → 30 sec per paper
+🎯 22% improvement in mark recognition accuracy
+📈 31% increase in extraction precision
+🔧 Tech: EfficientNet-B0, PaddleOCR, TensorFlow, Python
+```
+
+**Impact:** Enabled instant CO report generation, saving 80% of manual entry effort department-wide.
+
+---
+
+### ❤️ **CardioRisk Predictor (ECG + Clinical)**
+> *Multimodal deep learning system for cardiac disease classification*
+
+```
+📈 Processed 45,345 PTB-XL ECG signals with full preprocessing pipeline
+🧠 SE-ResNet1D + MLP architecture for ECG-clinical fusion
+🎯 94% validation accuracy across 5 cardiac classes
+📊 15-40% boost in class-wise recall through feature fusion
+⚡ High-throughput pipeline with oversampling & stratified splitting
+🔧 Tech: TensorFlow, SE-ResNet1D, NumPy, Signal Processing
+```
+
+**Impact:** Reproducible pipeline for accurate cardiac risk assessment using multimodal data.
+
+---
+
+### 📊 **Tamil Nadu Election EDA & Power BI Dashboard**
+> *50 years of TN Assembly Elections analyzed (1971-2021)*
+
+```
+📈 Interactive Power BI dashboard with year filters & party comparisons
+🔍 SQL window functions for seat counts, vote-share trends, close contests
+📊 KPI cards: seats won, margin analysis, NOTA statistics
+🎯 Uncovered turnout patterns and constituency-level insights
+🔧 Tech: Power BI, SQL, Python, Data Visualization
+```
+
+**Impact:** Comprehensive visual analysis revealing long-term electoral trends and voting patterns.
+
+---
+
+## 🏆 Side Projects
+
+### 🌐 **FocusPilot Chrome Extension**
+> *AI-powered productivity tool with real-time webpage classification*
+
+```
+🧠 DistilBERT classifier trained on 5,000 samples
+✅ 99% classification accuracy
+⚡ Real-time webpage scraping for productivity alerts
+📉 Reduced unproductive browsing by 35% in testing
+🔧 Tech: DistilBERT, Flask, Chrome Extensions API
+```
+
+---
+
+### 🏆 **AI-Based Attendance Automation** *(Hackathon Runner-Up)*
+> *NLP-powered attendance system automating faculty queries*
+
+```
+💬 Mistral-powered Named Entity Recognition (NER)
+🔍 Embedding-based vectorization for query matching
+📊 Automated 90% of attendance queries
+⚡ Significantly reduced faculty workload
+🔧 Tech: Mistral, NER, Embeddings, Flask
+```
+
+---
+
+## 🎓 Education
+
+**Coimbatore Institute of Technology**  
+M.Sc. Data Science (Integrated) | CGPA: 7.67/10 | 2023–Present
+
+---
+
+## 📜 Experience & Training
+
+- **Data Science Workshop:** ML workflows, EDA, visualization, and reporting
+- **EduHacks Participation:** YouTube comment classifier using NLP for sentiment detection
+- **Kaggle Learn Certifications:**
+  - Applied Feature Engineering (2024)
+  - Data Visualization for Exploratory Analysis (2024)
+- **Additional Certifications:**
+  - Web Development (JavaScript, Node.js)
+  - Quantum Computing (Qiskit)
+
+---
+
+## 💼 Professional Interests
+
+- **Data Engineering & Analytics**
+- **Deep Learning Systems**
+- **ML Engineering**
+
+---
+
+## 💬 Let's Connect!
+
+I'm interested in collaborating on ML projects, discussing data science innovations, and building production-ready solutions.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-s-967a44303)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshansivasamy05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan-207)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"Building ML systems that deliver measurable real-world impact"*
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Science+Student;ML%2FDL+Developer;Production-Ready+Solutions;Always+Learning+%F0%9F%9A%80)
 
 **⭐️ From [darshan-207](https://github.com/darshan-207)**
 
