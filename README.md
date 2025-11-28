@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Tamil Nadu Election EDA & Power BI Dashboard](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
+[![Tamil Nadu Election EDA & Power BI Dashboard](https://github.com/darshan-207/TN-Election-Analytics-1971-2021/blob/main/TN-Election-Dashboard-Image.png?raw=true)](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
 </div>
 
 ---
