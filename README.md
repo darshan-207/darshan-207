@@ -16,18 +16,40 @@
 
 ## 📌 Pinned Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 Featured: AI-Powered Web Productivity Classifier
+### 🧠 AI-Powered Web Productivity Classifier
 
-[![Productive vs Unproductive Web Classifier](https://img.shields.io/badge/🚀_View_Project-Productivity_Classifier-blueviolet?style=for-the-badge)](https://github.com/darshan-207/productive-web-classifier)
+<a href="https://github.com/darshan-207/FocusPilot-Chrome-Extension">
+  <img src="https://github.com/darshan-207/FocusPilot-Chrome-Extension/blob/main/ChatGPT%20Image%20Nov%2029%2C%202025%2C%2012_54_24%20PM.png?raw=true" alt="Productive vs Unproductive Web Classifier" width="100%"/>
+</a>
 
-*Real-time browser intelligence system with custom-trained DistilBERT | Local inference | Chrome Extension*
+**Real-time browser intelligence with custom-trained DistilBERT**
 
----
+🤖 Local inference | 🌐 Chrome Extension | 🎯 99% accuracy
 
-[![Tamil Nadu Election EDA & Power BI Dashboard](https://github.com/darshan-207/TN-Election-Analytics-1971-2021/blob/main/TN-Election-Dashboard-Image.png?raw=true)](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
-</div>
+[![View Project](https://img.shields.io/badge/View-Repository-blueviolet?style=flat-square)](https://github.com/darshan-207/FocusPilot-Chrome-Extension)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Tamil Nadu Election Analytics
+
+<a href="https://github.com/darshan-207/TN-Election-Analytics-1971-2021">
+  <img src="https://github.com/darshan-207/TN-Election-Analytics-1971-2021/blob/main/TN-Election-Dashboard-Image.png?raw=true" alt="Tamil Nadu Election EDA & Power BI Dashboard" width="100%"/>
+</a>
+
+**50 years of TN Assembly Elections analyzed (1971-2021)**
+
+📈 Power BI Dashboard | 🔍 SQL Analytics | 📊 Interactive Insights
+
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
+
+</td>
+</tr>
+</table>
 
 ---
 
