@@ -18,6 +18,14 @@
 
 <div align="center">
 
+### 🧠 Featured: AI-Powered Web Productivity Classifier
+
+[![Productive vs Unproductive Web Classifier](https://img.shields.io/badge/🚀_View_Project-Productivity_Classifier-blueviolet?style=for-the-badge)](https://github.com/darshan-207/productive-web-classifier)
+
+*Real-time browser intelligence system with custom-trained DistilBERT | Local inference | Chrome Extension*
+
+---
+
 [![Tamil Nadu Election EDA & Power BI Dashboard](https://github.com/darshan-207/TN-Election-Analytics-1971-2021/blob/main/TN-Election-Dashboard-Image.png?raw=true)](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
 </div>
 
@@ -58,8 +66,8 @@ class DarshanS:
 
 ### **Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF1493?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-00CED1?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)
 
 </td>
@@ -78,6 +86,7 @@ class DarshanS:
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
 </td>
 </tr>
@@ -86,6 +95,25 @@ class DarshanS:
 ---
 
 ## 🚀 Key Projects
+
+### 🧠 **Productive vs Unproductive Web Classifier** *(Featured Project)*
+> *Real-time browser intelligence with custom-trained NLP model*
+
+```
+🤖 Fine-tuned DistilBERT on 5,000+ curated samples
+🌐 Chrome Extension (Manifest V3) with live content extraction
+⚡ Local FastAPI inference server (privacy-first, zero-latency)
+🎯 99% classification accuracy on test set
+📊 Extracts text from YouTube, streaming sites, infinite-scroll pages
+🔒 Completely local - no cloud, no tracking, no API limits
+🔧 Tech: DistilBERT, PyTorch, FastAPI, Chrome Extensions API
+```
+
+**Impact:** Real-time semantic understanding of digital consumption patterns. Reduced unproductive browsing by 35% in user testing through instant awareness feedback.
+
+**[→ View Repository](https://github.com/darshan-207/productive-web-classifier)**
+
+---
 
 ### 📄 **Mid-Sem Front Sheet Digitization System** *(Dept. Project - Team Lead)*
 > *Automated exam paper digitization reducing manual workload by 80%*
@@ -135,20 +163,7 @@ class DarshanS:
 
 ---
 
-## 🏆 Side Projects
-
-### 🌐 **FocusPilot Chrome Extension**
-> *AI-powered productivity tool with real-time webpage classification*
-
-```
-🧠 DistilBERT classifier trained on 5,000 samples
-✅ 99% classification accuracy
-⚡ Real-time webpage scraping for productivity alerts
-📉 Reduced unproductive browsing by 35% in testing
-🔧 Tech: DistilBERT, Flask, Chrome Extensions API
-```
-
----
+## 🏆 Additional Projects
 
 ### 🏆 **AI-Based Attendance Automation** *(Hackathon Runner-Up)*
 > *NLP-powered attendance system automating faculty queries*
@@ -185,9 +200,10 @@ M.Sc. Data Science (Integrated) | CGPA: 7.67/10 | 2023–Present
 
 ## 💼 Professional Interests
 
+- **ML Engineering & Production Systems**
+- **NLP & Transformer Architectures**
 - **Data Engineering & Analytics**
-- **Deep Learning Systems**
-- **ML Engineering**
+- **Browser Automation & Extension Development**
 
 ---
 
