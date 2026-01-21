@@ -50,7 +50,7 @@
 </tr>
 
 <tr>
-<td width="100%" colspan="2" valign="top">
+<td width="50%" colspan="2" valign="top">
 
 ### 📊 Customer Churn Analytics Dashboard
 
@@ -66,6 +66,23 @@
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" colspan="2" valign="top">
+
+### 🎯 Accuracy vs Precision vs Recall — Why Accuracy Lies
+
+<a href="https://github.com/darshan-207/Accuracy-Precision-Recall">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg" width="100%"/>
+</a>
+
+**Understanding model evaluation metrics through threshold-based behavior**
+
+📊 Binary Classification | 🧠 Model Evaluation | 🎯 Decision Threshold Analysis
+
+</td>
+</tr>
+
 </table>
 
 ---
