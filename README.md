@@ -41,7 +41,10 @@
   <img src="https://github.com/darshan-207/TN-Election-Analytics-1971-2021/blob/main/TN-Election-Dashboard-Image.png?raw=true" alt="Tamil Nadu Election EDA & Power BI Dashboard" width="100%"/>
 </a>
 
-**50 years of TN Assembly Elections analyzed (1971-2021)**
+**50 years of TN Assembly Elections analyzed (1971–2021)**
+
+📈 Power BI Dashboard | 🔍 SQL Analytics | 📊 Interactive Insights
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
 
 </td>
 </tr>
