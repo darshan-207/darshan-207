@@ -52,7 +52,7 @@
 ### 📊 Customer Churn Analytics Dashboard
 
 <a href="https://github.com/darshan-207/Customer-Churn-Dashboard">
-  <img src="https://github.com/darshan-207/Customer-Churn-Dashboard/blob/main/churn/screenshots/s1.png?raw=true" width="100%"/>
+  <img src="https://github.com/darshan-207/Churn-Analysis-Dashboard/blob/main/churn/screenshots/s1.png?raw=true" width="100%"/>
 </a>
 
 **Customer churn analysis with risk-based insights and executive-ready KPIs**
