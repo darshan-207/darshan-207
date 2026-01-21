@@ -47,6 +47,14 @@
 
 [![View Project](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
 
+
+### 📊 Customer Churn Analytics Dashboard
+<a href="https://github.com/darshan-207/Customer-Churn-Dashboard"> <img src="https://github.com/darshan-207/Customer-Churn-Dashboard/blob/main/screenshots/dashboard.png?raw=true" alt="Customer Churn Power BI Dashboard" width="100%"/> </a>
+
+Customer churn analysis with risk-based insights and executive-ready KPIs
+
+📈 Power BI Dashboard | 📊 Churn Risk Analysis | 🎯 Interactive KPIs
+
 </td>
 </tr>
 </table>
