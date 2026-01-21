@@ -71,7 +71,7 @@
 ### 🎯 Accuracy vs Precision vs Recall — Why Accuracy Lies
 
 <a href="https://github.com/darshan-207/Accuracy-Precision-Recall">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8c/Precisionrecallcurve.sv](https://miro.medium.com/max/824/1*xMl_wkMt42Hy8i84zs2WGg.png)" width="100%"/>
+  <img src="https://miro.medium.com/max/824/1*xMl_wkMt42Hy8i84zs2WGg.png" width="100%"/>
 </a>
 
 **Understanding model evaluation metrics through threshold-based behavior**
