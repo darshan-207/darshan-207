@@ -50,11 +50,11 @@
 </tr>
 
 <tr>
-<td width="50%" colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 📊 Customer Churn Analytics Dashboard
 
-<a href="https://github.com/darshan-207/Customer-Churn-Dashboard">
+<a href="https://github.com/darshan-207/Churn-Analysis-Dashboard">
   <img src="https://github.com/darshan-207/Churn-Analysis-Dashboard/blob/main/churn/screenshot/s1.png?raw=true" width="100%"/>
 </a>
 
@@ -65,23 +65,24 @@
 [![View Project](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/darshan-207/Churn-Analysis-Dashboard)
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 Accuracy vs Precision vs Recall — Why Accuracy Lies
 
 <a href="https://github.com/darshan-207/Accuracy-Precision-Recall">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg" width="100%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Precisionrecallcurve.svg" width="100%"/>
 </a>
 
 **Understanding model evaluation metrics through threshold-based behavior**
 
 📊 Binary Classification | 🧠 Model Evaluation | 🎯 Decision Threshold Analysis
 
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/darshan-207/Accuracy-Precision-Recall)
+
 </td>
 </tr>
+
 
 </table>
 
