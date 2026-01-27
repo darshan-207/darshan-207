@@ -44,7 +44,9 @@
 
 [![View Project](https://img.shields.io/badge/View-Repository-blueviolet?style=flat-square)](https://github.com/darshan-207/music_recommender_mathe)
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 Tamil Nadu Election Analytics
@@ -59,9 +61,7 @@
 [![View Project](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/darshan-207/TN-Election-Analytics-1971-2021)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 Customer Churn Analytics Dashboard
@@ -77,7 +77,9 @@
 [![View Project](https://img.shields.io/badge/View-Repository-blue?style=flat-square)](https://github.com/darshan-207/Churn-Analysis-Dashboard)
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🎯 Accuracy vs Precision vs Recall — Why Accuracy Lies
