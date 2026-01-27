@@ -34,6 +34,19 @@
 
 </td>
 <td width="50%" valign="top">
+### 🎵 MoodSync AI — Emotion-Aware Music Recommender
+<a href="https://github.com/darshan-207/music_recommender_mathe">
+  <img src="music_recommender_mathe/screenshots/Screenshot 2026-01-26 003443.png" 
+       alt="MoodSync AI Music Recommendation Dashboard" width="100%"/>
+</a>
+
+**Emotion-driven music recommendation using audio signal intelligence**
+🎧 CNN + MFCC + Chroma | 🧠 Hybrid Similarity | ⚡ FastAPI Backend
+
+[![View Project](https://img.shields.io/badge/View-Repository-blueviolet?style=flat-square)](https://github.com/darshan-207/music_recommender_mathe)
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 Tamil Nadu Election Analytics
 
