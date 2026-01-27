@@ -34,7 +34,7 @@
 
 </td>
 <td width="50%" valign="top">
-### 🎵 MoodSync AI — Emotion-Aware Music Recommender
+🎵 MoodSync AI — Emotion-Aware Music Recommender
 <a href="https://github.com/darshan-207/music_recommender_mathe">
   <img src="https://github.com/darshan-207/music_recommender_mathe/blob/main/screenshots/Screenshot 2026-01-26 003443.png?raw=true" alt="MoodSync AI Music Recommendation Dashboard" width="100%"/>
 </a>
